@@ -1,0 +1,19 @@
+body {
+	background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0542/7770/rrrpink_gold_chevron_mirror.png); 
+  	background-repeat: no-repeat; 
+  	background-size:1400px; 
+  	background-attachment: fixed}
+  
+
+.footer {  
+	backface-visibility: 20%; 
+	background-image: url(https://thumbs.dreamstime.com/b/fondo-de-dot-metallic-faux-foil-pink-de-la-polca-de-las-mariposas-del-oro-66946684.jpg); 
+	padding: 20px}
+
+
+.bgimg-1 {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  	background-image: url(http://mba-degree.info/wp-content/uploads/2017/11/tumblr-pictures-of-flowers-blurry-flowers-tumblr-photos.jpg); min-height: 500px;  }
