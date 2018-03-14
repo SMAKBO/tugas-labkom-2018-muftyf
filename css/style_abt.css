@@ -2,7 +2,8 @@ body {
 	background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0542/7770/rrrpink_gold_chevron_mirror.png); 
   	background-repeat: no-repeat; 
   	background-size:1400px; 
-  	background-attachment: fixed}
+  	background-attachment: fixed
+	background-size: cover}
   
 
 .footer {  
